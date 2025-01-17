@@ -12,7 +12,7 @@ This project is created with [Laravel Jetstream](https://jetstream.laravel.com/1
 
 ```
 # Clone the repository from GitHub and open the directory:
-git clone https://github.com/miten5/larawind.git
+git clone https://github.com/auliarazak/GOSEER.git
 
 # cd into your project directory
 cd larawind
